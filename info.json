@@ -1,0 +1,9 @@
+{
+  "name": "stickyloader",
+  "version": "1.0.2",
+  "description": "Sticky loader is a mod that makes loaders clip to the building",
+  "title": "Sticky Loader",
+  "author": "Yoshirakou",
+  "factorio_version": "2.0",
+  "dependencies": []
+}
